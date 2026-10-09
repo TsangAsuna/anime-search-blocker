@@ -35,9 +35,12 @@
 
 ## 安装
 
-1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/) 或 Violentmonkey 扩展
-2. 打开本文件夹中的 `anime-search-blocker.user.js`（直接双击，或把文件拖到浏览器里）
-3. 在脚本管理器弹出的安装页点击「安装」
+任选其一：
+
+- **Greasy Fork（推荐）**：打开 https://greasyfork.org/zh-CN/scripts/599396 点「安装此脚本」
+- **GitHub 直装**：打开 https://raw.githubusercontent.com/TsangAsuna/anime-search-blocker/main/anime-search-blocker.user.js，在 Tampermonkey 弹出的页面点「安装」
+
+需要先装好 [Tampermonkey](https://www.tampermonkey.net/) 或 Violentmonkey 浏览器扩展。更新源已指向 Greasy Fork，装过的用户会自动收到后续更新。
 
 ## 使用
 
@@ -84,6 +87,13 @@
 
 - `anime-search-blocker.user.js` —— 脚本本体
 - `README.md` —— 本说明
+- `LICENSE` —— MIT 许可证
+
+## 仓库与发布
+
+- Greasy Fork：https://greasyfork.org/zh-CN/scripts/599396
+- GitHub：https://github.com/TsangAsuna/anime-search-blocker
+- 更新流程：改代码 → `git push` 到 GitHub → 在油叉脚本页「添加新版本」贴入同样代码（油叉是更新源，两边代码需保持一致）
 
 ## 参考
 

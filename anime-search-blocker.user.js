@@ -22,8 +22,8 @@
 // @run-at       document-idle
 // @noframes
 // @license      MIT
-// @downloadURL  https://raw.githubusercontent.com/TsangAsuna/anime-search-blocker/main/anime-search-blocker.user.js
-// @updateURL    https://raw.githubusercontent.com/TsangAsuna/anime-search-blocker/main/anime-search-blocker.user.js
+// @downloadURL  https://update.greasyfork.org/scripts/599396/%E5%8A%A8%E6%BC%AB%E8%8A%B1%E5%9B%AD%20%20%E8%9C%9C%E6%9F%91%E5%8A%A8%E7%94%BB%20%20Nyaa%20%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E5%B1%8F%E8%94%BD%E5%99%A8%EF%BC%88%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A7%84%E5%88%99%E7%89%88%EF%BC%89.user.js
+// @updateURL    https://update.greasyfork.org/scripts/599396/%E5%8A%A8%E6%BC%AB%E8%8A%B1%E5%9B%AD%20%20%E8%9C%9C%E6%9F%91%E5%8A%A8%E7%94%BB%20%20Nyaa%20%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E5%B1%8F%E8%94%BD%E5%99%A8%EF%BC%88%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A7%84%E5%88%99%E7%89%88%EF%BC%89.meta.js
 // ==/UserScript==
 
 (function () {
